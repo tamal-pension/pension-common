@@ -11,7 +11,7 @@
     <artifactId>pension-common</artifactId>
     <version>1.0.0</version>
 
-    <description></description>
+    <description>Common library for tamal pension</description>
     <name>Pension Common - common library</name>
 
     <organization>
